@@ -1,0 +1,723 @@
+VOLUME 56 No.1                                                                          May, 2025
+                                                                        (Reference Year: 2021)
+
+SRS BULLETIN
+
+              SAMPLE REGISTRATION SYSTEM
+
+                   OFFICE OF THE REGISTRAR GENERAL, INDIA
+
+VITAL STATISTICS DIVISION, JANGANANA BHAWAN, 2/A, MANSINGH ROAD, NEW DELHI-110 011
+
+About SRS                                               Mortality Rate (IMR) for the year 2021 for India
+                                                        and its States/Union Territories. The `Bigger
+The Sample Registration System (SRS) provides           States/Union Territories' in this Bulletin are those
+reliable annual estimates of Infant Mortality Rate,     having population more than 10 million as per
+Birth Rate, Death Rate and other Fertility &            Census 2011.
+Mortality Indicators at the National and sub-
+National levels. It is a large-scale demographic        In 2021, the Birth Rate for the country has been
+survey conducted every year by Office of the            estimated at 19.3, whereas the Death Rate has been
+Registrar General, India in all States/Union            estimated at 7.5. The estimate of Infant Mortality
+Territories.                                            Rate for the year 2021 is 27 infant deaths per
+                                                        thousand live births.
+Abstract
+
+This Bulletin presents the estimates of Birth Rate,
+Death Rate, Natural Growth Rate and Infant
+
+19.3            Births per  7.5                         Deaths per  27  Infant Deaths
+                thousand                                thousand        per thousand
+                population                              population
+                                                                          live births
+
+                            Figure 1: India at a glance, 2021
+
+List of Tables                                          4. Death Rate by sex and residence, 2021
+                                                        5. Infant Mortality Rate by sex and residence,
+1. Estimated Birth Rate, Death Rate, Natural
+    Growth Rate and Infant Mortality Rate, 2021             2021
+                                                        6. Number of sample units and population
+2. Ninety five percent confidence limits (lower
+    and upper limits) for Birth Rate, 2021                  covered; India, States and Union Territories,
+                                                            2021
+3. Ninety five percent confidence limits (lower
+    and upper limits) for Death Rate and Infant
+    Mortality Rate, 2021
+
+                                                     1
+Birth Rate                                                                     In 2021, the highest
+                                                                               Birth Rate has been
+Birth Rate is a crude measure of fertility of a population and is a crucial    observed at 25.6 in
+determinant of population growth. It gives the number of live births per       Bihar, whereas
+thousand population in a given region and year.                                Andaman & Nicobar
+                                                                               Islands has the lowest
+The Birth Rate at all India level has declined drastically over the last five  Birth Rate of 10.6.
+decades from 36.9 in 1971 to 19.3 in 2021. The rural-urban differential has
+also narrowed over these years. However, the Birth Rate has continued to
+be higher in rural areas compared to urban areas in the last five decades.
+Figure-2 below shows the level of estimated Birth Rate for India over the
+last ten years. Birth Rate has declined by about 11% in the last decade,
+from 21.6 in 2012 to 19.3 in 2021. The corresponding decline in rural
+areas is 23.1 to 20.9 (about 10% decline) and for urban areas, it is from
+17.4 to 15.9 (about 9% decline).
+
+                                         Figure 2: Birth Rate, 2012-2021
+
+            25.0
+
+Birth Rate                 23.1
+            23.0
+
+                           21.6
+                                                                                                                               20.9
+
+            21.0
+
+                                                                                                                               19.3
+            19.0
+
+                          17.4
+            17.0
+
+                                                                                                                               15.9
+
+            15.0
+                      2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+                                          Total  Rural  Urban
+
+            In 2021, Chhattisgarh         Death Rate
+                   has recorded the
+                                          Mortality is one of the basic components of population change and the
+            highest Death Rate of         related data is essential for demographic studies and public health
+                  10.1, whereas the       administration. The Death Rate is one of the simplest measures of
+                                          mortality and is defined as the number of deaths per thousand population
+            lowest Death Rate has         in a given region and time period.
+                  been recorded in
+                                          The Death Rate in India has witnessed a significant decline over the last
+            Delhi and Chandigarh          five decades from 14.9 in 1971 to 6.0 in 2020. However, Death Rate has
+                                 at 5.4.  increased for the year 2021 to 7.5 per thousand population. The Death
+                                          Rate for rural area has increased from 6.4 in 2020 to 7.9 in 2021. The
+                                          relative increase in urban area in 2021 is 6.6 from 5.1 in 2020. The
+                                          following Figure-3 indicates the Death Rate at rural, urban and all India
+                                          level for the past ten years.
+
+                                                                 2
+                                                  Figure 3: Death Rate, 2012-2021
+
+                       8.5
+
+                       8.0                                                               7.9
+
+                                   7.6                                                   7.5
+                       7.5
+
+                       7.0      7.0
+
+Death Rate                                                                               6.6
+
+                       6.5
+
+                       6.0
+                                  5.6
+
+                       5.5
+
+                       5.0
+
+                       4.5
+                                2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+                                        Total  Rural  Urban
+
+Infant Mortality Rate                                                                    In 2021, the
+                                                                                         maximum IMR has
+The Infant Mortality Rate (IMR), which is widely accepted as a crude                     been reported in
+indicator of the overall health scenario of a country or a region, is defined            Madhya Pradesh
+as the infant deaths (less than one year) per thousand live births in a given            (41) and the
+time period and for a given region.                                                      minimum in
+                                                                                         Manipur,
+The present level of IMR (27 infant deaths per thousand live births, for the             Mizoram and
+year 2021) is less than one-fourth as compared to 1971 (129 infant deaths per            Sikkim (4).
+thousand live births). In the last ten years, IMR has witnessed a decline of
+about 36%. The Figure-4 given below indicates that IMR at all India level has
+declined from 42 to 27 in the last decade. The corresponding decline in rural
+areas is 46 to 30, and for urban areas it is from 28 to 18, thereby exhibiting
+about 35% and 36% decadal decline respectively.
+
+Despite the decline in IMR over the last decades, one in every 37 infants die
+within first year of their life at the National level (irrespective of rural-
+urban).
+
+                                             Figure 4: Infant Mortality Rate, 2012-2021
+
+                       55
+
+Infant Mortality Rate  50   46
+
+                       45   42
+
+                       40
+
+                       35
+
+                       30   28                                                           30
+                                                                                         27
+
+                       25
+
+                       20                                                                18
+
+                       15
+                               2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+                                        Total  Rural  Urban
+
+                                               3
+           Table 1: Estimated Birth Rate, Death Rate, Natural Growth Rate and Infant Mortality Rate, 2021
+
+India/States/ Union Territories     Birth Rate      Death Rate         Natural Growth Rate                             Infant Mortality Rate
+  1
+                                 Total Rural Urban  Total Rural Urban  Total Rural Urban                               Total Rural Urban
+
+                                 2  3           4   5     6     7      8  9                                        10      11     12     13
+
+India                            19.3 20.9 15.9 7.5 7.9 6.6 11.8 13.1 9.3                                              27      30 18
+
+Bigger States/Union Territories
+
+1. Andhra Pradesh                15.4 15.7 14.7 8.0 8.9 6.0 7.4 6.8 8.7 22                                                     24 16
+2. Assam
+3. Bihar                         20.6 21.7 14.1 6.6 6.7 6.3 13.9 15.0 7.8 34                                                   36 16
+4. Chhattisgarh
+5. NCT of Delhi                  25.6 26.3 21.0 6.6 6.7 6.3 19.0 19.6 14.7 27                                                  27 24
+6. Gujarat
+7. Haryana                       21.7 23.1 17.0 10.1 10.4 9.0 11.6 12.7 8.1 38                                                 40 30
+8. Jammu & Kashmir
+9. Jharkhand                     13.9 15.0 13.9 5.4 6.8 5.4 8.6 8.2 8.6 12                                                     17 11
+10. Karnataka
+11. Kerala                       18.9 20.7 16.7 8.5 9.9 6.8 10.4 10.9 9.9 21                                                   25 16
+12. Madhya Pradesh
+13. Maharashtra                  19.5 20.8 17.4 8.2 8.7 7.4 11.3 12.1 10.1 27                                                  30 22
+14. Odisha
+15. Punjab                       14.6 16.1 11.1 5.7 5.6 5.9 8.9 10.5 5.2 16                                                    17 13
+16. Rajasthan
+17. Tamil Nadu                   21.8 23.2 17.4 6.5 6.6 6.2 15.2 16.6 11.2 25                                                  26 21
+18. Telangana
+19. Uttar Pradesh                16.2 17.2 14.8 8.5 9.9 6.4 7.7 7.3 8.3 17                                                     19 14
+20. Uttarakhand
+                                 12.9 12.8 13.0 9.0 8.5 9.4 3.9 4.3 3.6                                                6       4      7
+21. West Bengal
+                                 23.8 25.7 18.5 8.1 8.4 7.3 15.7 17.3 11.2 41                                                  45 28
+
+                                 14.7 15.1 14.3 7.4 8.7 5.8 7.3 6.4 8.5 15                                                     18 10
+
+                                 17.4 18.5 12.8 8.6 9.0 6.9 8.8 9.5 5.9 35                                                     36 27
+
+                                 14.1 14.6 13.5 8.7 10.1 6.9 5.4 4.5 6.5 18                                                    19 16
+
+                                 23.6 24.6 20.7 6.7 6.8 6.3 16.9 17.8 14.4 31                                                  34 23
+
+                                 13.4 13.6 13.2 8.3 9.7 7.0 5.1 3.9 6.2 12                                                     14 9
+
+                                 16.1 16.3 15.7 6.5 7.3 5.3 9.6 9.0 10.4 20                                                    23 16
+
+                                 24.8 25.8 21.8 7.0 7.1 6.7 17.8 18.7 15.2 37                                                  40 27
+
+                                 16.8 17.2 15.8 6.9 7.0 6.6 9.9 10.2 9.2 23                                                    24 23
+
+                                 14.6 16.1 11.4 6.8 6.7 7.1 7.8 9.3 4.3 18                                                     18 17
+
+Smaller States                   17.0 17.5 14.7 5.7 5.9 5.1 11.3 11.6 9.6 21                                                   22 13
+
+1. Arunachal Pradesh             11.7 11.3 12.0 8.1 8.9 7.4 3.6 2.4 4.6                                                5       7      3
+2. Goa
+3. Himachal Pradesh              15.0 15.4 9.9 8.6 8.8 6.1 6.4 6.6 3.9 17                                                      18 12
+4. Manipur
+5. Meghalaya                     13.1 13.4 12.6 5.5 5.3 5.8 7.6 8.1 6.8                                                4       5      3
+6. Mizoram
+7. Nagaland                      23.0 25.1 13.1 6.4 6.3 6.6 16.6 18.8 6.4 30                                                   31 22
+8. Sikkim
+                                 14.4 16.9 11.8 6.2 5.8 6.7 8.2 11.1 5.1                                               4       5      3
+9. Tripura
+                                 12.6 13.0 12.0 6.0 6.5 5.3 6.6 6.5 6.7                                                7       8      4
+
+                                 15.4 13.8 17.9 5.7 5.8 5.5 9.7 8.0 12.3 4                                                     8 *NA
+
+                                 12.8 13.7 10.9 6.7 6.5 7.2 6.1 7.2 3.6 19                                                     19 19
+
+Union Territories
+
+1. Andaman & Nicobar Islands 10.6 11.2 9.9 7.0 8.0 5.8 3.6 3.2 4.0                                                     7       6      8
+
+2. Chandigarh                    12.5 17.5 12.4 5.4 5.0 5.4 7.1 12.5 7.0                                               7       12 7
+
+3. Dadra & Nagar Haveli          19.8 17.5 20.9 6.5 7.4 6.0 13.4 10.1 14.9 9                                                   11 8
+    and Daman & Diu
+
+4. Ladakh                        14.3 15.2 10.9 5.7 5.7 5.7 8.6 9.6 5.2 11                                                     11 12
+
+5. Lakshadweep                   14.4 21.7 12.5 7.2 8.8 6.7 7.2 12.9 5.7 16                                                    23 13
+
+6. Puducherry                    12.8 12.8 12.8 7.3 6.9 7.5 5.5 5.9 5.3                                                5       8      4
+
+Note: Infant Mortality Rates for smaller States and Union Territories are based on the three-year period 2019-21.
+* Not Available as no infant death was recorded in the respective sample units for the year 2021.
+
+                                                       4
+Table 2: Ninety-five percent confidence limits (lower and upper limits) for Birth Rate, 2021
+
+India/States/ Union Territories                          Birth Rate
+
+  1                                     Total                   Rural                Urban
+India
+                                 Lower         Upper     Lower         Upper  Lower         Upper
+
+                                 Limit         Limit     Limit         Limit  Limit         Limit
+
+                                 2             3         4             5      6             7
+
+                                 19.0          19.6      20.5          21.3   15.5          16.2
+
+Bigger States/Union Territories
+
+1. Andhra Pradesh                14.8          16.0      14.9          16.5   13.7          15.7
+
+2. Assam                         19.1          22.0      20.0          23.4   13.4          14.9
+
+3. Bihar                         24.9          26.3      25.5          27.1   19.9          22.1
+
+4. Chhattisgarh                  20.0          23.4      21.0          25.2   14.8          19.3
+
+5. NCT of Delhi                  12.6          15.3      11.1          19.0   12.6          15.3
+
+6. Gujarat                       17.9          20.0      19.4          22.1   15.2          18.3
+
+7. Haryana                       18.4          20.6      19.3          22.3   16.0          18.9
+
+8. Jammu & Kashmir and Ladakh    13.5          15.6      14.8          17.4   9.6           12.6
+
+9. Jharkhand                     20.4          23.1      21.4          25.0   15.9          18.9
+
+10. Karnataka                    15.4          17.0      16.1          18.3   13.6          15.9
+
+11. Kerala                       12.2          13.6      11.7          13.8   12.0          14.0
+
+12. Madhya Pradesh               22.7          24.9      24.4          27.0   17.2          19.8
+
+13. Maharashtra                  14.2          15.3      14.2          16.0   13.7          14.9
+
+14. Odisha                       16.7          18.1      17.7          19.3   11.4          14.2
+
+15. Punjab                       13.3          14.9      13.6          15.6   12.2          14.7
+
+16. Rajasthan                    22.7          24.5      23.5          25.6   18.8          22.5
+
+17. Tamil Nadu                   12.9          13.9      13.0          14.3   12.5          13.9
+
+18. Telangana                    15.1          17.0      14.8          17.7   14.5          16.9
+
+19. Uttar Pradesh                23.3          26.3      23.9          27.6   20.1          23.6
+
+20. Uttarakhand                  16.0          17.6      16.2          18.2   14.7          16.9
+
+21. West Bengal                  14.0          15.3      15.3          16.8   10.2          12.7
+
+Smaller States                   13.9          20.1      13.8          21.2   11.7          17.7
+
+1. Arunachal Pradesh             10.6          12.8      10.0          12.6   10.3          13.7
+2. Goa
+3. Himachal Pradesh              13.8          16.1      14.1          16.7   8.4           11.5
+4. Manipur
+5. Meghalaya                     12.0          14.3      12.0          14.8   10.6          14.6
+6. Mizoram
+7. Nagaland                      20.8          25.2      22.5          27.7   10.5          15.7
+8. Sikkim
+                                 11.3          17.5      12.4          21.5   7.7           15.8
+9. Tripura
+                                 11.0          14.1      10.8          15.2   10.0          13.9
+
+                                 13.7          17.2      12.6          15.1   13.9          21.8
+
+                                 11.9          13.8      12.6          14.8   8.7           13.0
+
+Union Territories
+
+1. Andaman & Nicobar Islands        9.5        11.7      10.1          12.4   7.9           11.8
+2. Chandigarh
+                                 10.4          14.5      15.1          19.8   10.3          14.5
+
+3. Dadra & Nagar Haveli and      17.9          21.8      14.0          21.0   18.6          23.2
+      Daman & Diu
+
+4. Ladakh                        12.4          16.1      13.1          17.3   7.2           14.6
+
+5. Lakshadweep                      9.5        19.3      0.0           46.4   10.3          14.7
+
+6. Puducherry                    11.3          14.3      11.1          14.4   10.9          14.7
+
+Note : Ninety-five percent confidence limits for Birth Rate, Death Rate and Infant Mortality Rate have been estimated using the
+
+formulae BR  2 S.E.(BR), DR  2 S.E.(DR) and IMR  2 S.E.(IMR) respectively.
+
+                                                      5
+                      Table 3: Ninety-five percent confidence limits (lower and upper limits) for
+                                         Death Rate and Infant Mortality Rate, 2021
+
+India/States/ Union                          Death Rate                                  Infant Mortality Rate
+Territories
+                                 Total       Rural            Urban           Total          Rural                 Urban
+               1                                                                                                Lower Upper
+India                 Lower      Upper  Lower Upper      Lower Upper      Lower Upper Lower Upper               Limit Limit
+                      Limit      Limit                                    Limit Limit Limit Limit
+                                        Limit Limit      Limit Limit                                              12 13
+                         2          3                                                                             16 20
+                                        4    5           6           7    8          9   10         11
+
+                      7.3        7.6    7.7 8.0          6.5         6.8  26         28  29         32
+
+Bigger States/Union Territories
+
+1. Andhra Pradesh     7.5        8.4    8.4  9.5         5.4         6.6  18         26  20         29          8 23
+
+2. Assam              6.1        7.1    6.1  7.2         5.9         6.7  28         40  30         43          10 22
+
+3. Bihar              6.4        6.9    6.4  7.0         5.8         6.8  23         30  23         30          17 32
+
+4. Chhattisgarh       9.2        10.9 9.3 11.4           7.6  10.3        26         50  26         54          15 45
+
+5. NCT of Delhi       4.9        5.9    4.4  9.3         4.8         5.9  7          16  0          36          7 16
+
+6. Gujarat            7.9        9.0    9.2 10.6         6.0         7.7  18         25  21         30          9 22
+
+7. Haryana            7.8        8.6    8.2  9.2         6.7         8.0  22         33  24         37          14 30
+
+8. Jammu & Kashmir    5.3        6.1    5.1  6.1         5.0         6.8  11         21  11         22          0 26
+
+9. Jharkhand          5.9        7.2    5.8  7.5         5.6         6.8  19         31  19         33          12 30
+
+10. Karnataka         7.9        9.1    9.2 10.6         5.4         7.5  12         23  14         25          3 25
+
+11. Kerala            8.5        9.5    8.0  9.0         8.5  10.3        2          9   2          7           1 13
+
+12. Madhya Pradesh    7.7        8.5    7.9  8.8         6.6         8.0  37         46  40         50          20 37
+
+13. Maharashtra       7.0        7.7    8.1  9.2         5.4         6.2  12         18  15         22          6 14
+
+14. Odisha            8.2        9.0    8.5  9.5         6.3         7.5  29         40  29         42          17 37
+
+15. Punjab            8.2        9.2    9.4 10.8         6.3         7.5  13         22  13         25          8 24
+
+16. Rajasthan         6.3        7.0    6.4  7.2         5.6         7.0  27         35  29         38          15 31
+
+17. Tamil Nadu        7.9        8.6    9.2 10.2         6.6         7.4  9          14  11         18          5 13
+
+18. Telangana         5.9        7.0    6.5  8.2         4.7         5.9  15         25  16         29          8 24
+
+19. Uttar Pradesh     6.6        7.3    6.7  7.5         6.0         7.3  33         41  35         45          19 35
+
+20. Uttarakhand       6.5        7.3    6.5  7.6         6.1         7.1  19         28  17         30          16 30
+
+21. West Bengal       6.6        7.1    6.4  7.1         6.6         7.7  15         21  15         22          10 23
+
+Smaller States
+
+1. Arunachal Pradesh                                 Confidence limits of Death Rate and Infant Mortality
+2. Goa                                               Rate for smaller States and Union Territories have not
+3. Himachal Pradesh                                  been presented due to the small sample size and very
+4. Manipur                                           large variations between the Upper and Lower
+5. Meghalaya                                         tolerance limits.
+6. Mizoram
+7. Nagaland
+8. Sikkim
+9. Tripura
+
+Union Territories
+
+1. Andaman & Nicobar
+      Islands
+
+2. Chandigarh
+3. Dadra & Nagar Haveli
+
+      and Daman & Diu
+4. Ladakh
+5. Lakshadweep
+6. Puducherry
+Note : Ninety-five percent confidence limits for Birth Rate, Death Rate and Infant Mortality Rate have been estimated using the formulae BR  2
+
+          S.E.(BR), DR  2 S.E.(DR) and IMR  2 S.E.(IMR) respectively.
+
+                                                                                  6
+                                 Table 4: Death Rate by sex and residence, 2021
+
+India/States/ Union Territories         Total                 Rural                           Urban
+ 1                                      Male                  Male
+                                 Total         Female  Total         Female            Total  Male Female
+                                   2      3       4      5      6       7                8
+                                                                                              9      10
+
+India                            7.5    8.5    6.4     7.9    9.0                6.7   6.6    7.5    5.7
+
+Bigger States/Union Territories
+
+1. Andhra Pradesh                8.0    9.6    6.2     8.9    10.6               7.2   6.0    7.6    4.4
+2. Assam
+3. Bihar                         6.6    8.4    4.7     6.7    8.6                4.7   6.3    7.7    4.8
+4. Chhattisgarh
+5. NCT of Delhi                  6.6    7.4    5.9     6.7    7.4                5.9   6.3    6.9    5.6
+6. Gujarat
+7. Haryana                       10.1   11.5   8.6     10.4 11.9                 8.9   9.0    10.5 7.4
+8. Jammu & Kashmir
+9. Jharkhand                     5.4    6.2    4.5     6.8    9.1                4.1   5.4    6.1    4.5
+10. Karnataka
+11. Kerala                       8.5    9.7    7.2     9.9    11.2               8.5   6.8    7.8    5.7
+12. Madhya Pradesh
+13. Maharashtra                  8.2    9.3    7.0     8.7    9.9                7.4   7.4    8.3    6.4
+14. Odisha
+15. Punjab                       5.7    5.9    5.5     5.6    5.5                5.7   5.9    6.8    5.0
+16. Rajasthan
+17. Tamil Nadu                   6.5    7.5    5.5     6.6    7.6                5.6   6.2    7.0    5.4
+18. Telangana
+19. Uttar Pradesh                8.5    9.6    7.4     9.9    11.3               8.5   6.4    7.1    5.7
+20. Uttarakhand
+                                 9.0    10.2   7.8     8.5    9.9                7.3   9.4    10.5 8.4
+21. West Bengal
+                                 8.1    9.0    7.1     8.4    9.3                7.3   7.3    8.1    6.4
+
+                                 7.4    8.7    6.0     8.7    10.2               7.0   5.8    6.9    4.7
+
+                                 8.6    9.5    7.7     9.0    10.0               8.0   6.9    7.4    6.4
+
+                                 8.7    9.7    7.6     10.1 11.4                 8.7   6.9    7.6    6.2
+
+                                 6.7    7.5    5.8     6.8    7.8                5.8   6.3    6.6    6.0
+
+                                 8.3    9.5    7.0     9.7    11.3               8.0   7.0    7.9    6.1
+
+                                 6.5    7.8    5.2     7.3    8.9                5.8   5.3    6.2    4.3
+
+                                 7.0    7.9    6.0     7.1    8.0                6.1   6.7    7.6    5.6
+
+                                 6.9    8.0    5.7     7.0    8.3                5.7   6.6    7.4    5.7
+
+                                 6.8    7.7    6.0     6.7    7.3                6.1   7.1    8.5    5.8
+
+Smaller States                   5.7    6.5    4.8     5.9    6.9                4.7   5.1    4.6    5.7
+
+1. Arunachal Pradesh             8.1    10.0   6.1     8.9    10.8               7.1   7.4    9.4    5.4
+2. Goa
+3. Himachal Pradesh              8.6    9.8    7.5     8.8    10.0               7.7   6.1    6.9    5.2
+4. Manipur
+5. Meghalaya                     5.5    7.0    4.0     5.3    6.9                3.8   5.8    7.2    4.6
+6. Mizoram
+7. Nagaland                      6.4    7.1    5.6     6.3    7.1                5.5   6.6    6.8    6.4
+8. Sikkim
+                                 6.2    8.0    4.5     5.8    8.4                3.2   6.7    7.4    5.9
+9. Tripura
+                                 6.0    6.8    5.1     6.5    8.2                4.7   5.3    4.8    5.8
+
+                                 5.7    6.6    4.8     5.8    6.7                5.0   5.5    6.5    4.5
+
+                                 6.7    8.0    5.3     6.5    7.7                5.3   7.2    8.6    5.6
+
+Union Territories
+
+1. Andaman & Nicobar Islands     7.0    8.3    5.6     8.0    9.6                6.4   5.8    6.9    4.7
+
+2. Chandigarh                    5.4    6.1    4.6     5.0    5.1                4.8   5.4    6.1    4.6
+
+3. Dadra & Nagar Haveli          6.5    6.0    7.0     7.4    8.7                6.0   6.0    4.9    7.5
+      and Daman & Diu
+
+4. Ladakh                        5.7    7.1    4.2     5.7    7.0                4.3   5.7    7.7    3.8
+
+5. Lakshadweep                   7.2    7.6    6.8     8.8    7.6                10.0  6.7    7.5    5.9
+
+6. Puducherry                    7.3    7.9    6.8     6.9    8.3                5.5   7.5    7.7    7.2
+
+                                                    7
+                         Table 5: Infant Mortality Rate by sex and residence, 2021
+
+India/States/ Union Territories  Total  Total  Female  Total  Rural  Female  Total     Urban  Female
+ 1                                 2    Male      4      5    Male      7      8       Male      10
+
+                                          3                     6                         9
+
+India                            27     27     27      30     30     31      18        18     18
+
+Bigger States/Union Territories
+
+1. Andhra Pradesh                22     22     22      24     25     24      16        15     17
+2. Assam
+3. Bihar                         34     33     36      36     34     38      16        17     15
+4. Chhattisgarh
+5. NCT of Delhi                  27     26     28      27     26     28      24        23     26
+6. Gujarat
+7. Haryana                       38     34     42      40     35     45      30        31     30
+8. Jammu & Kashmir
+9. Jharkhand                     12     11     12      17     17     18      11        11     11
+10. Karnataka
+11. Kerala                       21     22     21      25     27     24      16        15     16
+12. Madhya Pradesh
+13. Maharashtra                  27     28     27      30     31     30      22        23     21
+14. Odisha
+15. Punjab                       16     16     16      17     16     17      13        14     12
+16. Rajasthan
+17. Tamil Nadu                   25     24     26      26     25     27      21        21     21
+18. Telangana
+19. Uttar Pradesh                17     18     17      19     22     17      14        12     16
+20. Uttarakhand
+                                 6      6      5       4      5      4              7  8      6
+21. West Bengal
+                                 41     42     40      45     46     44      28        30     27
+
+                                 15     14     15      18     18     19      10        10     10
+
+                                 35     35     34      36     36     36      27        28     26
+
+                                 18     17     18      19     18     20      16        16     15
+
+                                 31     30     32      34     32     36      23        23     22
+
+                                 12     12     11      14     15     13             9  9      9
+
+                                 20     21     19      23     24     21      16        16     15
+
+                                 37     37     37      40     39     40      27        28     26
+
+                                 23     23     24      24     24     23      23        22     24
+
+                                 18     18     17      18     19     18      17        17     16
+
+Smaller States
+
+1. Arunachal Pradesh             21     24     18
+
+2. Goa                           5      5      4
+
+3. Himachal Pradesh              17     22     12
+
+4. Manipur                       4      4      4
+
+5. Meghalaya                     30     28     33
+
+6. Mizoram                       4      3      5
+
+7. Nagaland                      7      3      10
+
+8. Sikkim                        4      4      4       Infant Mortality Rates for smaller States and Union Territoriesare
+9. Tripura
+                                 19     20     18 based on three-year period 2019-21. On account of wideyear-to-
+
+Union Territories                                      year fluctuations due to inadequate sample size, the Infant
+                                                       Mortality Rate by sex, separately for rural and urban areas, is not
+
+1. Andaman & Nicobar Islands     7      4      10 given.
+
+2. Chandigarh                    7      4      10
+
+3. Dadra & Nagar Haveli          9      10     7
+      and Daman & Diu
+
+4. Ladakh                        11     10     11
+
+5. Lakshadweep                   16     13     18
+
+6. Puducherry                    5      8      2
+
+                                                   8
+Table 6: Number of sample units and population covered; India, States and Union Territories, 2021
+
+ India/States/ Union Territories      Number of sample units                                Population covered (in'000)
+
+   1                              Total  Rural  Urban                                       Total  Rural  Urban
+India
+Bigger States/Union Territories   2      3                    4                             5      6      7
+1. Andhra Pradesh
+2. Assam                          8842   4959   3883                                        8445   6144   2301
+3. Bihar
+4. Chhattisgarh                   325    198    127                                         342    268    74
+5. Delhi
+6. Gujarat                        299    89     210                                         240    118    122
+7. Haryana
+8. Jammu & Kashmir                330    200    130                                         399    317    82
+9. Jharkhand
+10. Karnataka                     158    73                   85                            126    77     49
+11. Kerala
+12. Madhya Pradesh                196    10     186                                         148    15     133
+13. Maharashtra
+14. Odisha                        478    231    247                                         450    309    141
+15. Punjab
+16. Rajasthan                     256    144    112                                         270    202    68
+17. Tamil Nadu
+18. Telangana                     279    177    102                                         243    197    46
+19. Uttar Pradesh
+20. Uttarakhand                   210    91     119                                         162    98     64
+21. West Bengal
+Smaller States                    511    361    150                                         497    413    84
+1. Arunachal Pradesh
+2. Goa                            280    175    105                                         378    320    58
+3. Himachal Pradesh
+4. Manipur                        448    285    163                                         425    325    100
+5. Meghalaya
+6. Mizoram                        661    306    355                                         547    362    185
+7. Nagaland
+8. Sikkim                         405    290    115                                         375    305    70
+9. Tripura
+Union Territories                 249    130    119                                         226    155    71
+1. Andaman & Nicobar Islands
+2. Chandigarh                     350    236    114                                         348    286    62
+3. Dadra & Nagar Haveli
+                                  545    235    310                                         542    345    197
+      and Daman & Diu
+4. Ladakh                         224    121    103                                         218    158    60
+5. Lakshadweep
+6. Puducherry                     500    328    172                                         556    447    109
+
+                                  374    195    179                                         319    201    118
+
+                                  555    304    251                                         583    442    141
+
+                                  65     50                   15                            50     37     13
+
+                                  95     45                   50                            93     69     24
+
+                                  210    155                  55                            125    97     28
+
+                                  165    120                  45                            154    127    27
+
+                                  130    95                   35                            88     68     20
+
+                                  45     25                   20                            37     25     12
+
+                                  50     35                   15                            32     25     7
+
+                                  65     50                   15                            67     53     14
+
+                                  90     65                   25                            116    100    16
+
+                                  55     37                   18                            55     42     13
+
+                                  40     5                    35                            39     11     28
+
+                                  60     30                   30                            75     52     23
+
+                                  70     48                   22                            54     46     8
+
+                                  14     2                    12                            14     4      10
+
+                                  55     18                   37                            53     29     24
+
+Note: `Total' population may not add up to `Rural' and `Urban' population due to rounding.
+
+Published and issued by Vital Statistics Division, Office of the Registrar General, India,
+                          Ministry of Home Affairs, Govt. of India,
+
+                Janganana Bhawan, 2/A, Mansingh Road, New Delhi-110011
+                                     Phone: (91) (11) 23038742
+
+             Website link: https://censusindia.gov.in/census.website/data/SRSB
+
+                                                   9
+

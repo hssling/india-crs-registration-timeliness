@@ -1,0 +1,3 @@
+source_reports/**/*.pdf
+__pycache__/
+*.pyc

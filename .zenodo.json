@@ -1,0 +1,23 @@
+{
+  "title": "From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code",
+  "upload_type": "software",
+  "description": "Data, code and derived outputs for an analysis of the completeness and timeliness of birth and death registration in India's Civil Registration System, 2009-2024, from the Registrar General of India's published reports.",
+  "creators": [
+    {
+      "name": "H S, Siddalingaiah",
+      "orcid": "0000-0002-4771-8285",
+      "affiliation": "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumkur, Karnataka, India"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "civil registration",
+    "vital statistics",
+    "death registration",
+    "birth registration",
+    "timeliness",
+    "India"
+  ],
+  "version": "1.0.0",
+  "access_right": "open"
+}

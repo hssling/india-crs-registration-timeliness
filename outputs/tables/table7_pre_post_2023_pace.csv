@@ -1,0 +1,5 @@
+indicator,period,years_spanned,total_change_pp,avg_annual_pp
+birth_registration,2009-2019 (pre-amendment),10,11.4,1.14
+birth_registration,2023-2024 (post-amendment),1,0.7,0.7
+death_registration,2009-2019 (pre-amendment),10,25.1,2.51
+death_registration,2023-2024 (post-amendment),1,2.2,2.2

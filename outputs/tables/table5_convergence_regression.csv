@@ -1,0 +1,3 @@
+indicator,n,slope,intercept,r_squared,p_value_display,std_err
+birth_registration,38,-0.7695,71.58,0.501,<0.001,0.1279
+death_registration,38,-0.6419,62.82,0.422,<0.001,0.1253
