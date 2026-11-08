@@ -1,5 +1,7 @@
 # From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24057704.svg)](https://doi.org/10.5281/zenodo.24057704)
+
 Data, code and derived outputs for the study *From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024*.
 
 The study analyses the Registrar General of India's Annual Reports on Vital Statistics of India based on the Civil Registration System (CRS) and the Sample Registration System (SRS) Bulletins for 2009-2024. It separates the completeness of birth and death registration from its timeliness, shows that both published statistics are tabulated by year of registration rather than year of occurrence, and assesses state convergence in completeness with sensitivity analyses for the 100% ceiling, boundary changes and regression to the mean.
@@ -49,4 +51,4 @@ Code: MIT License (`LICENSE`). Extracted data and derived outputs: Creative Comm
 
 ## Citation
 
-See `CITATION.cff`. Author: Siddalingaiah H S (ORCID 0000-0002-4771-8285).
+Siddalingaiah H S. From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code (version 1.0.0). Zenodo; 2026. doi: 10.5281/zenodo.24057704. Archive of all versions: doi: 10.5281/zenodo.24057703. See also `CITATION.cff`.

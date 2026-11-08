@@ -5,6 +5,7 @@ version: "1.0.0"
 date-released: "2026-11-09"
 license: MIT
 repository-code: "https://github.com/hssling/india-crs-registration-timeliness"
+doi: "10.5281/zenodo.24057704"
 authors:
   - family-names: "H S"
     given-names: "Siddalingaiah"
