@@ -1,0 +1,27 @@
+event,denominator_error_sd,state,timely_coverage,prob_lowest_five,median_rank_rho
+deaths,0.1,Arunachal Pradesh,9.5,1.0,0.95
+deaths,0.1,Nagaland,7.3,1.0,0.95
+deaths,0.1,Manipur,32.6,0.8,0.95
+deaths,0.1,Bihar,32.5,0.81,0.95
+deaths,0.1,Ladakh,34.6,0.57,0.95
+deaths,0.1,Jharkhand,32.2,0.82,0.95
+deaths,0.2,Arunachal Pradesh,9.5,1.0,0.87
+deaths,0.2,Nagaland,7.3,1.0,0.87
+deaths,0.2,Manipur,32.6,0.76,0.87
+deaths,0.2,Bihar,32.5,0.75,0.87
+deaths,0.2,Ladakh,34.6,0.63,0.87
+deaths,0.2,Jharkhand,32.2,0.78,0.87
+births,0.1,Arunachal Pradesh,12.1,1.0,0.93
+births,0.1,Nagaland,2.6,1.0,0.93
+births,0.1,Manipur,39.9,1.0,0.93
+births,0.1,Bihar,52.8,0.46,0.93
+births,0.1,Uttarakhand,56.5,0.2,0.93
+births,0.1,Uttar Pradesh,52.9,0.45,0.93
+births,0.1,D & N Haveli and Daman & Diu,48.1,0.81,0.93
+births,0.2,Arunachal Pradesh,12.1,1.0,0.82
+births,0.2,Nagaland,2.6,1.0,0.82
+births,0.2,Manipur,39.9,0.88,0.82
+births,0.2,Bihar,52.8,0.36,0.82
+births,0.2,Uttarakhand,56.5,0.23,0.82
+births,0.2,Uttar Pradesh,52.9,0.37,0.82
+births,0.2,D & N Haveli and Daman & Diu,48.1,0.55,0.82

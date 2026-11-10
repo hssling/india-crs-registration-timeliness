@@ -1,0 +1,7 @@
+year,event,registration_year,recent_event,occurrence_based,occurred_and_registered,within_21d,gap_registration_year,gap_recent_event
+2022,births,57.0,62.6,67.1,300350,201545,10.1,4.5
+2023,births,78.8,86.2,90.7,315087,285837,11.9,4.5
+2024,births,55.2,61.1,63.1,306459,193417,7.9,2.0
+2022,deaths,70.2,71.3,74.3,128106,95128,4.1,3.0
+2023,deaths,67.7,68.8,71.9,132391,95192,4.2,3.1
+2024,deaths,68.6,69.6,73.0,139480,101782,4.4,3.4

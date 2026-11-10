@@ -1,0 +1,72 @@
+{
+ "goa_tieout_max_abs_difference": 0,
+ "delhi_gap_ryt_range": [
+  4.1,
+  11.9
+ ],
+ "delhi_gap_ret_range": [
+  2.0,
+  4.5
+ ],
+ "delhi_ret_closer_all": true,
+ "national_birth_change_2022_2024_lower": -4.2,
+ "national_birth_change_2022_2024_upper": 3.2,
+ "death_bottom5_both_bounds": [
+  "Arunachal Pradesh",
+  "Bihar",
+  "Ladakh",
+  "Manipur",
+  "Nagaland"
+ ],
+ "death_bottom5_max_upper": 69.3,
+ "death_national_upper_2024": 82.8,
+ "nagaland_birth_bracket": [
+  1.3,
+  22.3
+ ],
+ "tc_deaths_sd20_prob": {
+  "Arunachal Pradesh": 1.0,
+  "Nagaland": 1.0,
+  "Manipur": 0.76,
+  "Bihar": 0.75,
+  "Ladakh": 0.63,
+  "Jharkhand": 0.78
+ },
+ "tc_deaths_sd20_rho": 0.87,
+ "tc_deaths_sd10_prob": {
+  "Arunachal Pradesh": 1.0,
+  "Nagaland": 1.0,
+  "Manipur": 0.8,
+  "Bihar": 0.81,
+  "Ladakh": 0.57,
+  "Jharkhand": 0.82
+ },
+ "mech_births": {
+  "event": "births",
+  "n": 31,
+  "observed_slope": -0.9,
+  "adjacent_year_r": 0.865,
+  "n_reliability": 14,
+  "rtm_slope_bound": -0.135,
+  "null_common_gain_pp": 17.5,
+  "null_noise_sd_pp": 9.5,
+  "null_slope_mean": -0.42,
+  "null_slope_p2_5": -0.59,
+  "null_slope_p97_5": -0.26,
+  "share_null_at_least_as_negative": 0.0
+ },
+ "mech_deaths": {
+  "event": "deaths",
+  "n": 31,
+  "observed_slope": -0.66,
+  "adjacent_year_r": 0.977,
+  "n_reliability": 24,
+  "rtm_slope_bound": -0.023,
+  "null_common_gain_pp": 33.2,
+  "null_noise_sd_pp": 17.3,
+  "null_slope_mean": -0.51,
+  "null_slope_p2_5": -0.7,
+  "null_slope_p97_5": -0.33,
+  "share_null_at_least_as_negative": 0.056
+ }
+}

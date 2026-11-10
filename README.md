@@ -1,6 +1,6 @@
 # From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24057704.svg)](https://doi.org/10.5281/zenodo.24057704)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24057703.svg)](https://doi.org/10.5281/zenodo.24057703)
 
 Data, code and derived outputs for the study *From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024*.
 
@@ -13,7 +13,7 @@ The study analyses the Registrar General of India's Annual Reports on Vital Stat
 | `data_extracted/` | Values extracted from the published reports: national and state level of registration, time-gap distribution of registrations by state (2020-2024), 2024 state registered and estimated events, institutional shares, SRS national rates |
 | `data_extracted/raw_text/` | Plain-text extraction of each CRS report and SRS Bulletin, the input to the parsers |
 | `scripts/` | Extraction (01-06, 10-14) and analysis (16-18) code |
-| `outputs/tables/` | Derived tables: national timeliness accounting, 2024 state timeliness accounting, convergence and sensitivity analyses, dispersion on a balanced panel, earliest-to-latest state change |
+| `outputs/tables/` | Derived tables: national timeliness accounting, 2024 state timeliness accounting, convergence and sensitivity analyses, dispersion on a balanced panel, earliest-to-latest state change, benchmarks of the timeliness bounds (Delhi occurrence-based counts, Goa tie-out), denominator sensitivity of timely coverage, and regression-to-the-mean and ceiling-only benchmarks for convergence |
 | `outputs/figures/` | Figures (JPEG, 300 dpi) |
 | `source_reports/` | Location for the downloaded report PDFs (not redistributed) |
 
@@ -26,10 +26,11 @@ From the extracted data (no PDFs needed):
 ```
 pip install -r requirements.txt
 python scripts/17_timeliness_accounting_and_convergence.py
+python scripts/19_proxy_benchmarks_and_convergence_mechanics.py
 python scripts/18_make_figures.py
 ```
 
-From the source reports: download the CRS Annual Reports 2009-2024 and SRS Bulletins (https://crsorgi.gov.in/) into `source_reports/CRS/<year>.pdf` and `source_reports/SRS/<year>.pdf`, then run scripts 01-06, 10-14 and 16-18 in numerical order.
+From the source reports: download the CRS Annual Reports 2009-2024 and SRS Bulletins (https://crsorgi.gov.in/) into `source_reports/CRS/<year>.pdf` and `source_reports/SRS/<year>.pdf`, then run scripts 01-06, 10-14, 16, 17, 19 and 18 in that order. Script 19 also reads the 2024 report PDF.
 
 Script 16 validates its extraction internally: the uncapped ratio of registered to estimated events, capped at 100%, must reproduce every published level of registration for 2024.
 
@@ -51,4 +52,4 @@ Code: MIT License (`LICENSE`). Extracted data and derived outputs: Creative Comm
 
 ## Citation
 
-Siddalingaiah H S. From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code (version 1.0.0). Zenodo; 2026. doi: 10.5281/zenodo.24057704. Archive of all versions: doi: 10.5281/zenodo.24057703. See also `CITATION.cff`.
+Siddalingaiah H S. From Completeness to Timeliness: Birth and Death Registration in India's Civil Registration System, 2009-2024 - data and code. Zenodo; 2026. doi: 10.5281/zenodo.24057703 (all versions; each release also has its own version DOI on Zenodo). See also `CITATION.cff`.

@@ -1,0 +1,3 @@
+event,n,observed_slope,adjacent_year_r,n_reliability,rtm_slope_bound,null_common_gain_pp,null_noise_sd_pp,null_slope_mean,null_slope_p2_5,null_slope_p97_5,share_null_at_least_as_negative
+births,31,-0.9,0.865,14,-0.135,17.5,9.5,-0.42,-0.59,-0.26,0.0
+deaths,31,-0.66,0.977,24,-0.023,33.2,17.3,-0.51,-0.7,-0.33,0.056
